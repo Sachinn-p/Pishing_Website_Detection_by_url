@@ -1,0 +1,92 @@
+'https://www.google.com/','It is not a Phishing Website','Args: domain_name,				 Values:[''GOOGLE.COM'', ''google.com'']
+Args: registrar,				 Values:MarkMonitor, Inc.
+Args: whois_server,				 Values:whois.markmonitor.com
+Args: referral_url,				 Values:None
+Args: updated_date,				 Values:2019-09-09 15:39:04
+Args: creation_date,				 Values:[datetime.datetime(1997, 9, 15, 4, 0), datetime.datetime(1997, 9, 15, 7, 0)]
+Args: expiration_date,				 Values:[datetime.datetime(2028, 9, 14, 4, 0), datetime.datetime(2028, 9, 13, 7, 0)]
+Args: dnssec,				 Values:unsigned
+Args: name,				 Values:None
+Args: org,				 Values:Google LLC
+Args: address,				 Values:None
+Args: city,				 Values:None
+Args: state,				 Values:CA
+Args: registrant_postal_code,				 Values:None
+Args: country,				 Values:US','<a href="https://cybercrime.gov.in/Webform/Accept.aspx">Click here to report!</a>','','','2024-03-09 10:55:49.208839'
+'https://www.kaggle.com/','It is not a Phishing Website','Args: domain_name,				 Values:[''KAGGLE.COM'', ''kaggle.com'']
+Args: registrar,				 Values:MarkMonitor, Inc.
+Args: whois_server,				 Values:whois.markmonitor.com
+Args: referral_url,				 Values:None
+Args: updated_date,				 Values:2023-07-27 09:52:12
+Args: creation_date,				 Values:2009-08-28 07:33:49
+Args: expiration_date,				 Values:[datetime.datetime(2024, 8, 28, 7, 33, 49), datetime.datetime(2024, 8, 28, 0, 0)]
+Args: dnssec,				 Values:unsigned
+Args: name,				 Values:None
+Args: org,				 Values:Google LLC
+Args: address,				 Values:None
+Args: city,				 Values:None
+Args: state,				 Values:CA
+Args: registrant_postal_code,				 Values:None
+Args: country,				 Values:US','<a href="https://cybercrime.gov.in/Webform/Accept.aspx">Click here to report!</a>','','','2024-03-09 10:56:18.865289'
+'https://allconferencealert.net/advanced-search.php?venue=chennai+&topic=Technology+','It is not a Phishing Website','Args: domain_name,				 Values:ALLCONFERENCEALERT.NET
+Args: registrar,				 Values:BigRock Solutions Ltd.
+Args: whois_server,				 Values:Whois.bigrock.com
+Args: referral_url,				 Values:None
+Args: updated_date,				 Values:[datetime.datetime(2022, 1, 24, 15, 10, 6), datetime.datetime(2022, 5, 16, 10, 49, 5)]
+Args: creation_date,				 Values:2014-11-06 18:16:30
+Args: expiration_date,				 Values:2026-11-06 18:16:30
+Args: dnssec,				 Values:[''unsigned'', ''Unsigned'']
+Args: name,				 Values:Siddth Kumar chajjer
+Args: org,				 Values:None
+Args: address,				 Values:sf2, 4a,girija apartment, aarumbakkam
+Args: city,				 Values:Chennai
+Args: state,				 Values:Tamil Nadu
+Args: registrant_postal_code,				 Values:600106
+Args: country,				 Values:IN','<a href="https://cybercrime.gov.in/Webform/Accept.aspx">Click here to report!</a>','','','2024-03-09 11:08:48.016857'
+'https://sachinn.skynoveau.in/','It is not a Phishing Website','Args: domain_name,				 Values:skynoveau.in
+Args: registrar,				 Values:GoDaddy.com, LLC
+Args: updated_date,				 Values:2023-07-19 13:49:43
+Args: creation_date,				 Values:2022-07-09 11:34:29
+Args: expiration_date,				 Values:2024-07-09 11:34:29
+Args: state,				 Values:Tamil Nadu
+Args: country,				 Values:IN
+Args: dnssec,				 Values:unsigned','<a href="https://cybercrime.gov.in/Webform/Accept.aspx">Click here to report!</a>','','','2024-03-09 11:35:32.694473'
+'paypa1.com','It is a Phishing Website','Args: domain_name,				 Values:[''PAYPA1.COM'', ''paypa1.com'']
+Args: registrar,				 Values:MarkMonitor, Inc.
+Args: whois_server,				 Values:whois.markmonitor.com
+Args: referral_url,				 Values:None
+Args: updated_date,				 Values:2023-09-18 10:45:08
+Args: creation_date,				 Values:2000-10-20 23:17:07
+Args: expiration_date,				 Values:[datetime.datetime(2024, 10, 20, 23, 17, 7), datetime.datetime(2024, 10, 20, 0, 0)]
+Args: dnssec,				 Values:unsigned
+Args: name,				 Values:None
+Args: org,				 Values:PayPal Inc.
+Args: address,				 Values:None
+Args: city,				 Values:None
+Args: state,				 Values:CA
+Args: registrant_postal_code,				 Values:None
+Args: country,				 Values:US','<a href="https://cybercrime.gov.in/Webform/Accept.aspx">Click here to report!</a>','','','2024-03-09 12:35:16.117747'
+'https://sachinn.skynoveau.in/','It is not a Phishing Website','Args: domain_name,				 Values:skynoveau.in
+Args: registrar,				 Values:GoDaddy.com, LLC
+Args: updated_date,				 Values:2023-07-19 13:49:43
+Args: creation_date,				 Values:2022-07-09 11:34:29
+Args: expiration_date,				 Values:2024-07-09 11:34:29
+Args: state,				 Values:Tamil Nadu
+Args: country,				 Values:IN
+Args: dnssec,				 Values:unsigned','<a href="https://cybercrime.gov.in/Webform/Accept.aspx">Click here to report!</a>','','','2024-03-09 13:00:11.555352'
+'https://sachinn.skynoveau.in/','It is not a Phishing Website','Args: domain_name,				 Values:skynoveau.in
+Args: registrar,				 Values:GoDaddy.com, LLC
+Args: updated_date,				 Values:2023-07-19 13:49:43
+Args: creation_date,				 Values:2022-07-09 11:34:29
+Args: expiration_date,				 Values:2024-07-09 11:34:29
+Args: state,				 Values:Tamil Nadu
+Args: country,				 Values:IN
+Args: dnssec,				 Values:unsigned','<a href="https://cybercrime.gov.in/Webform/Accept.aspx">Click here to report!</a>','','','2024-03-09 13:00:14.515182'
+'https://sachinn.skynoveau.in/','It is not a Phishing Website','Args: domain_name,				 Values:skynoveau.in
+Args: registrar,				 Values:GoDaddy.com, LLC
+Args: updated_date,				 Values:2023-07-19 13:49:43
+Args: creation_date,				 Values:2022-07-09 11:34:29
+Args: expiration_date,				 Values:2024-07-09 11:34:29
+Args: state,				 Values:Tamil Nadu
+Args: country,				 Values:IN
+Args: dnssec,				 Values:unsigned','<a href="https://cybercrime.gov.in/Webform/Accept.aspx">Click here to report!</a>','','','2024-03-09 13:00:15.212071'
